@@ -1,11 +1,13 @@
-﻿# The-Killers-homepage
+﻿# The-Killers - My little fanpage
 
-# DEMO
+## DEMO
 
-https://volodymyr-kalistratov.github.io/The-Killers-homepage
+https://volodymyr-kalistratov.github.io/The-Killers/
 
 
-![gif](https://github.com/Volodymyr-Kalistratov/The-Killers-homepage/blob/main/images/Animation.gif)
+
+![gif](https://github.com/Volodymyr-Kalistratov/The-Killers/blob/main/images/Animation.gif)
+
 
 ### Technologies used:
 - **HTML**
